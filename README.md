@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" height="140" width="200" src="9mri5r.gif" />
+<img align="right" height="180"  src="9mri5r.gif" />
 
 🚀 Crafting digital experiences through code & creativity  
 🌐 Building the web, one pixel at a time  
