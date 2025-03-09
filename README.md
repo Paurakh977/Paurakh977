@@ -1,4 +1,4 @@
-<img align="right" height="180" src="9mri5r.gif" />
+<img align="right" height="150" src="9mri5r.gif" />
 
 # 💫 About Me:
 🚀 Crafting digital experiences through code & creativity  
