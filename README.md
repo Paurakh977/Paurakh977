@@ -1,12 +1,12 @@
-# 💫 About Me:
+#  About Me:
 
 <img align="right" height="180"  src="9mri5r.gif" />
 
-🚀 Crafting digital experiences through code & creativity  
-🌐 Building the web, one pixel at a time  
-🔮 Turning coffee into elegant solutions  
-🌱 Forever curious, forever learning  
-✨ Open source advocate & contributor  
+ Crafting digital experiences through code & creativity  
+ Building the web, one pixel at a time  
+ Turning coffee into elegant solutions  
+ Forever curious, forever learning  
+ Open source contributor  
 
 
 &nbsp;
